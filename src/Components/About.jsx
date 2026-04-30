@@ -10,7 +10,7 @@ function About() {
         
         {/* LEFT IMAGE */}
         <div className="about-img">
-          <img src="../images/img 2-Photoroom.png" alt="About Me" />
+          <img src="https://res.cloudinary.com/dhx20fess/image/upload/v1777574875/img_2_m7mznt.png" alt="About Me" />
         </div>
 
         {/* RIGHT CONTENT */}
